@@ -1,5 +1,5 @@
 # O-C Curve Analysis for Eclipsing Binary Systems
-This project is designed to process and analyze data from eclipsing binary systems, focusing on variations in eclipse timing (O-C) over time. The results are visualized through plots that display the differences between observed and calculated eclipse times for both primary and secondary eclipses.
+This project is designed to process and analyze data from eclipsing binary systems, focusing on variations in eclipse timing (O-C) over time. The results are visualized through plots that display the differences between observed and calculated eclipse times for both primary and secondary eclipses. if you want see my code, you need enter on the drive, becose its to much heavy (https://drive.google.com/drive/folders/1tMIdM3UoNd08hGHsjMIwPgLDw_GsHpUr?usp=drive_link)
 
 # Features
 General Data Loading:
